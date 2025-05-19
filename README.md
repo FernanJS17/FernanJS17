@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I currently work at Industrias Chamer<br>🌱 I’m currently learning Django and PostgreSQL
+🔭 Actualmente trabajo en **Industrias Chamer**  
+🌱 Aprendiendo activamente **Django** y **PostgreSQL** para desarrollar aplicaciones web robustas  
+💡 Apasionado por la automatización de procesos y la creación de soluciones tecnológicas eficientes
 
 
 ## 🌐 Socials:
